@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 - 🔭 I’m currently working on Google Cloud Platform
 - 🌱 I’m currently learning Python 
